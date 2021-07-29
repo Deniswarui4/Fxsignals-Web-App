@@ -1,0 +1,18 @@
+<section>
+	<div class="container mx-auto text-center mt-12 px-4">
+		<h2 class="text-5xl font-bold mb-4 uppercase tracking-wide text-yellow-300">Risk Warning</h2>
+		<p class="mt-4">Trading spot foreign exchange and futures on margin carries a high level of risk and may not be suitable for all investors. You may lose all your capital. Losses can exceed deposits. Past performance is not indicative of future results. The high degree of leverage can work against you as well as for you. Before deciding to invest in spot foreign exchange or futures you should carefully consider your investment objectives, level of experience, and risk appetite. If you are in any doubt about investment or the mechanics of such products, you should seek independent financial advice.</p>
+
+		<p class="mt-4">If you purchase a commodity option, your capital is at risk and you may sustain a total loss of the premium and all of the transaction cost.
+		If you purchase or sell a commodity future or sell a commodity option, your capital is at risk and you may sustain a total loss of the initial margin funds and any additional funds that you deposit with your broker to establish or maintain your position.
+		If the market moves against your position, your capital is at risk and you may be called upon by your broker to deposit a substantial amount of additional margin funds, on short notice, in order to maintain your position.
+		If you do not provide the required funds within the prescribed time, your position may be liquidated at a loss, and you will be liable for any resulting deficit in your account.
+		During certain market conditions, you may find it difficult or impossible to liquidate a trading position. This can occur, for example, when the market makes a “limit move”. The placement of contingent orders by you or your trading advisor, such as a “stop-loss” or “stop-limit” order, will not necessarily limit your losses to the intended amount, since the market conditions may make it impossible to execute such orders.
+		The high degree of leverage that is obtainable through for example futures trading, options trading, Spread Betting, Binary Betting and CFD trading can work against you as well as for you. The use of leverage can lead to large losses as well as gains. This brief statement cannot disclose all the risks and other significant aspects of the commodity markets, including trading shares, currencies, and stock indices. You should therefore carefully study financial trading before you enter the financial markets with the view of buying and selling, including shorting, securities in the market place.</p>
+		 
+
+		<p class="mt-4">Before deciding to invest in spot foreign exchange or futures you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with spot foreign exchange and futures trading, and seek advice from an independent financial advisor (IFA) if you have any doubts. All information posted on this website is of our opinion and the opinion of our visitors, and may not reflect the truth. Please use your own good judgment and seek advice from a qualified consultant or IFA, before believing and accepting any information posted on this website.</p>
+
+		<p class="mt-4">Your capital is at risk. Losses can exceed deposits</p>
+	</div>
+</section>
